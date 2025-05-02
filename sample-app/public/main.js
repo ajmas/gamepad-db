@@ -7,13 +7,12 @@ const initialAxes = [];
 let timeoutId = undefined;
 
 async function loadIndex () {
-  const response = await axios.get('/controllers/index.json');
+  const response = await axios.get('./controllers/index.json');
   controllerIndex = response.data?.controllers || [];
-  console.log('xxxx', controllerIndex);
 }
 
 async function fetchController (id) {
-  const response = await axios.get(`/controllers/${id}.json`);
+  const response = await axios.get(`./controllers/${id}.json`);
   return response.data;
 }
 
