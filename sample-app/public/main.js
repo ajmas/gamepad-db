@@ -148,7 +148,7 @@ async function init () {
     document.querySelector(`#${elementId} .axes`).innerHTML = html;
 
     if (controllerInfo?.vendorName) {
-      document.querySelector(`#${elementId} .logo img`).src = `/images/logos/${controllerInfo?.vendorName.toLowerCase()}.svg`;
+      document.querySelector(`#${elementId} .logo img`).src = `./images/logos/${controllerInfo?.vendorName.toLowerCase()}.svg`;
     }
 
     timeoutId = gameLoop();
