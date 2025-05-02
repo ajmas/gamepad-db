@@ -1,0 +1,38 @@
+{
+  "shortid": "nintendo-2006l",
+  "gamepadApiId": "Joy-Con (L) (STANDARD GAMEPAD Vendor: 057e Product: 2006)",
+  "name": "Joy-Con (L)",
+  "vendorName": "Nintendo",
+  "inputs": {
+    "buttons": [
+      { "label": "DOWN" },
+      { "label": "RIGHT" },
+      { "label": "LEFT" },
+      { "label": "UP" },
+      { "label": "SL" },
+      { "label": "SR" },
+      { "label": "R" },
+      { "label": "ZL" },
+      { "label": null },
+      { "label": null },
+      { "label": "joystick" },
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": "CAMERA" }
+    ],
+    "axes": [
+      {
+        "label": "joystick",
+        "orientation": "horizontal"
+      },
+      {
+        "label": "joystick",
+        "orientation": "vertical"
+      }
+    ]
+  },
+  "rumble": false
+}

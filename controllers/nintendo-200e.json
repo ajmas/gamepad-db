@@ -1,0 +1,56 @@
+{
+  "shortid": "nintendo-200e",
+  "gamepadApiId": "Joy-Con L+R (STANDARD GAMEPAD Vendor: 057e Product: 200e)",
+  "name": "Joy-Con L+R",
+  "vendorName": "Nintendo",
+  "inputs": {
+    "buttons": [
+      { "label": "B" },
+      { "label": "A" },
+      { "label": "Y" },
+      { "label": "X" },
+
+      { "label": "L" },
+      { "label": "R" },
+      { "label": "SL" },
+      { "label": "SR" },
+
+      { "label": "minus" },
+      { "label": "plus" },
+      { "label": "joystick-l" },
+      { "label": "joystick-r"  },
+
+      { "label": "d-pad-up" },
+      { "label": "d-pad-down" },
+      { "label": "d-pad-left" },
+      { "label": "d-pad-right" },
+
+      { "label": "home" },
+      { "label": "camera" },
+      { "label": "SLl" },
+      { "label": "sRl" },
+
+      { "label": "SLr" },
+      { "label": "SRr" }
+    ],
+    "axes": [
+      {
+        "label": "joystick-lh",
+        "orientation": "horizontal"
+      },
+      {
+        "label": "joystick-lv",
+        "orientation": "vertical"
+      },
+      {
+        "label": "joystick-rh",
+        "orientation": "horizontal"
+      },
+      {
+        "label": "joystick-rv",
+        "orientation": "vertical"
+      }
+    ]
+  },
+  "rumble": false
+}

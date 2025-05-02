@@ -1,0 +1,49 @@
+{
+  "shortid": "nintendo-joycon-lr",
+  "gamepadApiId": "Joy-Con (L/R) (STANDARD GAMEPAD)",
+  "name": "Joy-Con (L/R)",
+  "vendorName": "Nintendo",
+  "inputs": {
+    "buttons": [
+      { "label": "A" },
+      { "label": "B" },
+      { "label": "X" },
+      { "label": "Y" },
+
+      { "label": "L" },
+      { "label": "R" },
+      { "label": "ZL" },
+      { "label": "ZR" },
+
+      { "label": "minus" },
+      { "label": "plus" },
+      { "label": null },
+      { "label": null  },
+      { "label": "d-pad-up" },
+      { "label": "d-pad-down" },
+      { "label": "d-pad-left"  },
+
+      { "label": "d-pad-right" }
+
+    ],
+    "axes": [
+      {
+        "label": "joystick-lh",
+        "orientation": "horizontal"
+      },
+      {
+        "label": "joystick-lv",
+        "orientation": "vertical"
+      },
+      {
+        "label": "joystick-rh",
+        "orientation": "horizontal"
+      },
+      {
+        "label": "joystick-rv",
+        "orientation": "vertical"
+      }
+    ]
+  },
+  "rumble": false
+}

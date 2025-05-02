@@ -1,0 +1,14 @@
+{
+  "name": "gamepad-sample-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ws --open --directory ../"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "local-web-server": "^5.4.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "shortid": "sony-09cc",
+  "gamepadApiId": "sony-09cc-Wireless Controller",
+  "name": "DUALSHOCK 4 wireless controller",
+  "vendorName": "Sony",
+  "inputs": {
+    "buttons": [],
+    "axes": []
+  }
+}

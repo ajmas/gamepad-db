@@ -1,0 +1,40 @@
+{
+  "shortid": "nintendo-2017",
+  "gamepadApiId": "SNES Controller (Vendor: 057e Product: 2017)",
+  "name": "Switch Super Nintendo Entertainment System™ Controller",
+  "vendorName": "Nintendo",
+  "inputs": {
+    "buttons": [
+      { "label": "B" },
+      { "label": "A" },
+      { "label": "Y" },
+      { "label": "X" },
+      { "label": "L" },
+      { "label": "R" },
+      { "label": "ZL" },
+      { "label": null },
+      { "label": "SELECT" },
+      { "label": "START" },
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": "ZR" }
+    ],
+    "axes": [
+      {},
+      {},
+      {},
+      {
+        "labeL": "D-Pad",
+        "dPad": true,
+        "up": -1,
+        "down": -1,
+        "right": -1,
+        "left": -1
+      }
+    ]
+  },
+  "rumble": false
+}

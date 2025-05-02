@@ -1,0 +1,41 @@
+{
+  "shortid": "nintendo-2007r",
+  "gamepadApiId": "Joy-Con (R) (STANDARD GAMEPAD Vendor: 057e Product: 2007)",
+  "name": "Joy-Con (R)",
+  "vendorName": "Nintendo",
+  "inputs": {
+    "buttons": [
+      { "label": "A" },
+      { "label": "X" },
+      { "label": "B" },
+      { "label": "Y" },
+
+      { "label": "SL" },
+      { "label": "SR" },
+      { "label": "SL" },
+      { "label": "ZR" },
+
+      { "label": "L" },
+      { "label": "plus" },
+      { "label": "joystick" },
+      { "label": null  },
+
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": null },
+      { "label": "HOME" }
+    ],
+    "axes": [
+      {
+        "label": "joystick-h",
+        "orientation": "horizontal"
+      },
+      {
+        "label": "joystick-v",
+        "orientation": "vertical"
+      }
+    ]
+  },
+  "rumble": false
+}

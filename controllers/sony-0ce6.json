@@ -1,0 +1,98 @@
+{
+  "shortid": "sony-0ce6",
+  "gamepadApiId": "DualSense Wireless Controller (STANDARD GAMEPAD Vendor: 054c Product: 0ce6)",
+  "name": "DualSense Wireless Controller",
+  "vendorName": "Sony",
+  "inputs": {
+    "buttons": [
+      {
+        "label": "cross",
+        "idx": 0
+      },
+      {
+        "label": "circle",
+        "idx": 1
+      },
+      {
+        "label": "square",
+        "idx": 2
+      },
+      {
+        "label": "triangle",
+        "idx": 3
+      },
+      {
+        "label": "L1",
+        "idx": 4
+      },
+      {
+        "label": "R1",
+        "idx": 5
+      },
+      {
+        "label": "L2",
+        "idx": 6,
+        "analogue": true
+      },
+      {
+        "label": "R2",
+        "idx": 7,
+        "analogue": true
+      },
+      {
+        "label": "create",
+        "idx": 8
+      },
+      {
+        "label": "options",
+        "idx": 9
+      },
+      {
+        "label": "L3",
+        "idx": 10
+      },
+      {
+        "label": "L4",
+        "idx": 11
+      },
+      {
+        "label": "d-pad-up",
+        "idx": 12
+      },
+      {
+        "label": "d-pad-down",
+        "idx": 13
+      },
+      {
+        "label": "d-pad-left",
+        "idx": 14
+      },
+      {
+        "label": "d-pad-right",
+        "idx": 15
+      },
+      {
+        "label": "PS",
+        "idx": 16
+      },
+      {
+        "label": "touch pad",
+        "idx": 17
+      }
+    ],
+    "axes": [
+      {},
+      {},
+      {},
+      {
+        "labeL": "D-Pad",
+        "dPad": true,
+        "up": -1,
+        "down": -1,
+        "right": -1,
+        "left": -1
+      }
+    ]
+  },
+  "rumble": false
+}

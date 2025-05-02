@@ -1,0 +1,128 @@
+{
+  "controllers": [
+    {
+      "shortid": "sony-0ce6",
+      "gamepadApiId": "Wireless Controller (STANDARD GAMEPAD Vendor: 054c Product: 0ce6)"
+    },
+    {
+      "shortid": "sony-0268",
+      "gamepadApiId": "PS3 GamePad (Vendor: 054c Product: 0268)"
+    },
+    {
+      "shortid": "xinput",
+      "gamepadApiId": "xinput"
+    },
+    {
+      "shortid": "sony-09cc",
+      "gamepadApiId": "sony-09cc-Wireless Controller"
+    },
+    {
+      "shortid": "sony-05c4",
+      "gamepadApiId": "Wireless controller (STANDARD GAMEPAD Vendor: 054c Product: 05c4)"
+    },
+    {
+      "shortid": "nintendo-2009",
+      "gamepadApiId": "Pro Controller (STANDARD GAMEPAD Vendor: 057e Product: 2009)"
+    },
+    {
+      "shortid": "sony-0268",
+      "gamepadApiId": "PLAYSTATION(R)3 Controller (Vendor: 054c Product: 0268)"
+    },
+    {
+      "shortid": "sony-09cc",
+      "gamepadApiId": "Unknown Gamepad (STANDARD GAMEPAD Vendor: 054c Product: 09cc)"
+    },
+    {
+      "shortid": "wceg",
+      "gamepadApiId": "Wireless Controller Extended Gamepad"
+    },
+    {
+      "shortid": "sony-0ce6",
+      "gamepadApiId": "sony-0ce6-Wireless Controller"
+    },
+    {
+      "shortid": "sony-0ce6",
+      "gamepadApiId": "Wireless Controller (Vendor: 054c Product: 0ce6)"
+    },
+    {
+      "shortid": "xbox-wceg",
+      "gamepadApiId": "Xbox Wireless Controller Extended Gamepad"
+    },
+    {
+      "shortid": "2563-0575",
+      "gamepadApiId": "PC/PS3/Android (Vendor: 2563 Product: 0575)"
+    },
+    {
+      "shortid": "20d6-a711",
+      "gamepadApiId": "Core (Plus) Wired Controller (Vendor: 20d6 Product: a711)"
+    },
+    {
+      "shortid": "2563-0575",
+      "gamepadApiId": "Unknown Gamepad (Vendor: 2563 Product: 0575)"
+    },
+    {
+      "shortid": "046d-c219",
+      "gamepadApiId": "Logitech Cordless RumblePad 2 (STANDARD GAMEPAD Vendor: 046d Product: c219)"
+    },
+    {
+      "shortid": "sony-0268",
+      "gamepadApiId": "PLAYSTATION(R)3 Controller (STANDARD GAMEPAD Vendor: 054c Product: 0268)"
+    },
+    {
+      "shortid": "0079-0011",
+      "gamepadApiId": "USB Gamepad  (STANDARD GAMEPAD Vendor: 0079 Product: 0011)"
+    },
+    {
+      "shortid": "2563-0523",
+      "gamepadApiId": "PS3/PC Wired GamePad (Vendor: 2563 Product: 0523)"
+    },
+    {
+      "shortid": "7545-0104",
+      "gamepadApiId": "DS4 Wired Controller (Vendor: 7545 Product: 0104)"
+    },
+    {
+      "shortid": "sony-09cc",
+      "gamepadApiId": "sony-09cc-Unknown Gamepad"
+    },
+    {
+      "shortid": "0810-e501",
+      "gamepadApiId": "usb gamepad            (Vendor: 0810 Product: e501)"
+    },
+    {
+      "shortid": "18d1-9400",
+      "gamepadApiId": "Stadia Controller rev. A (STANDARD GAMEPAD Vendor: 18d1 Product: 9400)"
+    },
+    {
+      "shortid": "sony-268",
+      "gamepadApiId": "54c-268-PLAYSTATION(R)3 Controller"
+    },
+    {
+      "shortid": "beef-beef",
+      "gamepadApiId": "Unknown Gamepad (Vendor: beef Product: beef)"
+    },
+    {
+      "shortid": "nintendo-2017",
+      "gamepadApiId": "SNES Controller (Vendor: 057e Product: 2017)"
+    },
+    {
+      "shortId": "sony-0ce6",
+      "gamepadApiId": "DualSense Wireless Controller (STANDARD GAMEPAD Vendor: 054c Product: 0ce6)"
+    },
+    {
+      "shortId": "nintendo-2006l",
+      "gamepadApiId": "Joy-Con (L) (STANDARD GAMEPAD Vendor: 057e Product: 2006)"
+    },
+    {
+      "shortId": "nintendo-2007r",
+      "gamepadApiId": "Joy-Con (R) (STANDARD GAMEPAD Vendor: 057e Product: 2007)"
+    },
+    {
+      "shortId": "nintendo-200e",
+      "gamepadApiId": "Joy-Con L+R (STANDARD GAMEPAD Vendor: 057e Product: 200e)"
+    },
+    {
+      "shortId": "nintendo-joycon-lr",
+      "gamepadApiId": "Joy-Con (L/R) (STANDARD GAMEPAD)"
+    }
+  ]
+}
